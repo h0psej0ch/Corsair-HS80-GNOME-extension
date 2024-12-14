@@ -1,0 +1,10 @@
+{
+    "name": "Corsair HS80 Headset Status",
+    "description": "Display Corsair HS80 headset battery status",
+    "uuid": "corsair-headset@h0psej0ch.github.io",
+    "shell-version": ["47"],
+    "url": "",
+    "version": 1,
+    "stylesheet": "stylesheet.css"
+  }
+  

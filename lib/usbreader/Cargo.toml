@@ -1,0 +1,13 @@
+[package]
+name = "Corsair"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+hidapi = "2.3.3"
+libc = "0.2.164"
+dbus = "0.9.7"
+#
+#[lib]
+#name = "corsair_lib"
+#crate-type = ["cdylib"]
